@@ -1,4 +1,4 @@
-# kedi-mama-takip
+# Kedi-mama-takip
 Kedinizin mama kabını takip etmek için Python ve OpenCV kullanarak geliştirilmiş bir uygulama
 # Kedi Mama Takip
 
