@@ -35,6 +35,12 @@ to = "alıcı email adresi"
 python kedi-mama-takip.py
 
 
+## Demo
+
+Uygulamanın nasıl çalıştığını görmek için, [bu Instagram video bağlantısını](https://www.instagram.com/p/CmhfYQhI1tV/?hl=tr) ziyaret edin.
+
+
+
 Uygulama çalıştığında, kedinizin mama kabının dolu olup olmadığını kontrol eder ve eğer boşsa belirtilen e-posta adresine uyarı gönderir.
 
 ## Lisans
